@@ -1,0 +1,6 @@
+Algoritma,Accuracy,Precision (weighted),Recall (weighted),F1 (weighted),Precision (macro),Recall (macro),F1 (macro),Train Accuracy,Waktu latih (detik)
+Logistic Regression,0.9614,0.9616,0.9614,0.9615,0.9616,0.9615,0.9615,0.9697,0.5113
+Decision Tree,0.6722,0.6728,0.6722,0.6718,0.673,0.6734,0.6725,0.7139,0.2949
+Random Forest,0.7986,0.7981,0.7986,0.7984,0.7987,0.7991,0.7989,1.0,0.7646
+K-Nearest Neighbors,0.6578,0.6556,0.6578,0.6555,0.6569,0.6581,0.6562,0.7974,0.2957
+Support Vector Machine,0.9288,0.9302,0.9288,0.9292,0.9303,0.9291,0.9294,0.979,3.3316

@@ -1,0 +1,21 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+Hours_Studied,6602.0,,,,19.971675249924264,5.995576100645365,0.0,16.0,20.0,24.0,44.0
+Attendance,6600.0,,,,79.96878787878788,11.546801334096942,60.0,70.0,80.0,90.0,100.0
+Parental_Involvement,6602,3,Medium,3359,,,,,,,
+Access_to_Resources,6601,3,Medium,3315,,,,,,,
+Extracurricular_Activities,6601,2,Yes,3933,,,,,,,
+Sleep_Hours,6603.0,,,,7.028774799333636,1.4682612478062422,4.0,6.0,7.0,8.0,10.0
+Previous_Scores,6603.0,,,,75.06799939421475,14.398810014027346,50.0,63.0,75.0,88.0,100.0
+Motivation_Level,6602,3,Medium,3351,,,,,,,
+Internet_Access,6602,2,Yes,6104,,,,,,,
+Tutoring_Sessions,6602.0,,,,1.4928809451681309,1.2302162887135104,0.0,1.0,1.0,2.0,8.0
+Family_Income,6602,3,Low,2672,,,,,,,
+Teacher_Quality,6524,3,Medium,3922,,,,,,,
+School_Type,6601,2,Public,4593,,,,,,,
+Peer_Influence,6602,3,Positive,2636,,,,,,,
+Physical_Activity,6600.0,,,,2.966969696969697,1.0311704666462458,0.0,2.0,3.0,4.0,6.0
+Learning_Disabilities,6603,2,No,5908,,,,,,,
+Parental_Education_Level,6513,3,High School,3220,,,,,,,
+Distance_from_Home,6535,3,Near,3884,,,,,,,
+Gender,6602,2,Male,3812,,,,,,,
+Exam_Score,6603.0,,,,67.23019839466909,3.868994078994357,55.0,65.0,67.0,69.0,100.0
